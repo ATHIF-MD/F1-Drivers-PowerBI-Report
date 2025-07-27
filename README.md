@@ -2,8 +2,7 @@
 
 **Interactive Power BI dashboard** showcasing the career performance of Formula 1 drivers from 2000 to 2025. Built using advanced visuals, KPIs, and dynamic filtering, this project allows fans, data enthusiasts, and analysts to explore racing careers with ease.
 
-![Dashboard Preview](<img width="898" height="817" alt="image" src="https://github.com/user-attachments/assets/219319c0-bd4a-4165-9f67-9ad349108de0" />
-)
+<img width="898" height="817" alt="image" src="https://github.com/user-attachments/assets/219319c0-bd4a-4165-9f67-9ad349108de0" />
 
 ---
 
